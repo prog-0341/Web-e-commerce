@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|c:\\users\\julio\\source\\repos\\web-e-commerce\\webapp.client\\src\\styles\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|solutionrelative:webapp.client\\src\\styles\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|c:\\users\\julio\\source\\repos\\web-e-commerce\\webapp.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|solutionrelative:webapp.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|c:\\users\\julio\\source\\repos\\web-e-commerce\\webapp.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|solutionrelative:webapp.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|c:\\users\\julio\\source\\repos\\web-e-commerce\\webapp.client\\src\\styles\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|solutionrelative:webapp.client\\src\\styles\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|c:\\users\\julio\\source\\repos\\web-e-commerce\\webapp.client\\src\\components\\shared\\navbar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|solutionrelative:webapp.client\\src\\components\\shared\\navbar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|c:\\users\\julio\\source\\repos\\web-e-commerce\\webapp.client\\src\\layouts\\mainlayout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|solutionrelative:webapp.client\\src\\layouts\\mainlayout.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|c:\\users\\julio\\source\\repos\\web-e-commerce\\webapp.client\\src\\styles\\variables.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|solutionrelative:webapp.client\\src\\styles\\variables.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|c:\\users\\julio\\source\\repos\\web-e-commerce\\webapp.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|solutionrelative:webapp.client\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -23,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|solutionrelative:webapp.client\\src\\pages\\login.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|c:\\users\\julio\\source\\repos\\web-e-commerce\\webapp.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|solutionrelative:webapp.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|c:\\users\\julio\\source\\repos\\web-e-commerce\\webapp.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{43BD4B97-0D09-F2F9-AB42-F44BF4AEDF5F}|webapp.client\\webapp.client.esproj|solutionrelative:webapp.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -42,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 321,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,20 +78,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\index.html",
+              "RelativeDocumentMoniker": "webapp.client\\index.html",
+              "ToolTip": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\index.html",
+              "RelativeToolTip": "webapp.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-07T06:06:19.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Navbar.tsx",
+              "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\src\\components\\shared\\Navbar.tsx",
+              "RelativeDocumentMoniker": "webapp.client\\src\\components\\shared\\Navbar.tsx",
+              "ToolTip": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\src\\components\\shared\\Navbar.tsx",
+              "RelativeToolTip": "webapp.client\\src\\components\\shared\\Navbar.tsx",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-07T06:05:44.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.tsx",
+              "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\src\\layouts\\MainLayout.tsx",
+              "RelativeDocumentMoniker": "webapp.client\\src\\layouts\\MainLayout.tsx",
+              "ToolTip": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\src\\layouts\\MainLayout.tsx",
+              "RelativeToolTip": "webapp.client\\src\\layouts\\MainLayout.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-07T06:05:31.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "variables.css",
+              "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\src\\styles\\variables.css",
+              "RelativeDocumentMoniker": "webapp.client\\src\\styles\\variables.css",
+              "ToolTip": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\src\\styles\\variables.css",
+              "RelativeToolTip": "webapp.client\\src\\styles\\variables.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-07T06:05:16.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Navbar.css",
+              "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\src\\styles\\Navbar.css",
+              "RelativeDocumentMoniker": "webapp.client\\src\\styles\\Navbar.css",
+              "ToolTip": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\src\\styles\\Navbar.css",
+              "RelativeToolTip": "webapp.client\\src\\styles\\Navbar.css",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-07T06:05:12.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "global.css",
+              "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\src\\styles\\global.css",
+              "RelativeDocumentMoniker": "webapp.client\\src\\styles\\global.css",
+              "ToolTip": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\src\\styles\\global.css",
+              "RelativeToolTip": "webapp.client\\src\\styles\\global.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-07T06:05:08.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\README.md",
               "RelativeDocumentMoniker": "webapp.client\\README.md",
               "ToolTip": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\README.md",
               "RelativeToolTip": "webapp.client\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2026-03-07T05:26:53.235Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Products.tsx",
               "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\src\\pages\\Products.tsx",
               "RelativeDocumentMoniker": "webapp.client\\src\\pages\\Products.tsx",
@@ -75,12 +177,11 @@
               "RelativeToolTip": "webapp.client\\src\\pages\\Products.tsx",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-03-07T05:22:19.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T05:22:19.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Login.tsx",
               "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\src\\pages\\Login.tsx",
               "RelativeDocumentMoniker": "webapp.client\\src\\pages\\Login.tsx",
@@ -88,12 +189,11 @@
               "RelativeToolTip": "webapp.client\\src\\pages\\Login.tsx",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-03-07T05:22:15.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T05:22:15.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Dashboard.tsx",
               "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\src\\pages\\Dashboard.tsx",
               "RelativeDocumentMoniker": "webapp.client\\src\\pages\\Dashboard.tsx",
@@ -101,12 +201,11 @@
               "RelativeToolTip": "webapp.client\\src\\pages\\Dashboard.tsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-03-07T05:22:04.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T05:22:04.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Home.tsx",
               "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\src\\pages\\Home.tsx",
               "RelativeDocumentMoniker": "webapp.client\\src\\pages\\Home.tsx",
@@ -114,25 +213,24 @@
               "RelativeToolTip": "webapp.client\\src\\pages\\Home.tsx",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2026-03-07T05:22:03.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T05:22:03.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "App.tsx",
               "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\src\\App.tsx",
               "RelativeDocumentMoniker": "webapp.client\\src\\App.tsx",
               "ToolTip": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\src\\App.tsx",
               "RelativeToolTip": "webapp.client\\src\\App.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2026-03-07T05:21:54.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "index.css",
               "DocumentMoniker": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\webapp.client\\src\\index.css",
               "RelativeDocumentMoniker": "webapp.client\\src\\index.css",
@@ -140,21 +238,19 @@
               "RelativeToolTip": "webapp.client\\src\\index.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-03-07T05:21:51.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T05:21:51.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WebApp.Server",
+              "DocumentIndex": 13,
+              "Title": "WebApp.Server.csproj",
               "DocumentMoniker": "C:\\Users\\julio\\Source\\Repos\\Web-e-commerce\\WebApp.Server\\WebApp.Server.csproj",
               "RelativeDocumentMoniker": "WebApp.Server\\WebApp.Server.csproj",
               "ToolTip": "C:\\Users\\julio\\Source\\Repos\\Web-e-commerce\\WebApp.Server\\WebApp.Server.csproj",
               "RelativeToolTip": "WebApp.Server\\WebApp.Server.csproj",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-07T04:58:15.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T04:58:15.287Z"
             }
           ]
         },

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\WebApp.Server\\WebApp.Server.csproj": {}
+    "C:\\Users\\julio\\Source\\Repos\\Web-e-commerce\\WebApp.Server\\WebApp.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\WebApp.Server\\WebApp.Server.csproj": {
+    "C:\\Users\\julio\\Source\\Repos\\Web-e-commerce\\WebApp.Server\\WebApp.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\WebApp.Server\\WebApp.Server.csproj",
+        "projectUniqueName": "C:\\Users\\julio\\Source\\Repos\\Web-e-commerce\\WebApp.Server\\WebApp.Server.csproj",
         "projectName": "WebApp.Server",
-        "projectPath": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\WebApp.Server\\WebApp.Server.csproj",
+        "projectPath": "C:\\Users\\julio\\Source\\Repos\\Web-e-commerce\\WebApp.Server\\WebApp.Server.csproj",
         "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\WebApp.Server\\obj\\",
+        "outputPath": "C:\\Users\\julio\\Source\\Repos\\Web-e-commerce\\WebApp.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

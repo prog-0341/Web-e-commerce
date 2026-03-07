@@ -20,5 +20,9 @@ button {
   font-size: 1rem;
   transition: background 0.2s;
 }
+html, body, #root {
+    width: 100%;
+    min-height: 100vh;
+}
 
 button:hover { background: var(--color-secondary); }

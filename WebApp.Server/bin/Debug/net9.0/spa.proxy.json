@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:61398",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\WebApp.Server\\..\\webapp.client",
+"WorkingDirectory": "C:\\Users\\julio\\Source\\Repos\\Web-e-commerce\\WebApp.Server\\..\\webapp.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }
