@@ -1,0 +1,24 @@
+@import './variables.css';
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: var(--font-main);
+  background-color: var(--color-bg);
+  color: var(--color-text);
+}
+
+a { text-decoration: none; color: inherit; }
+
+button {
+  cursor: pointer;
+  border: none;
+  border-radius: var(--radius);
+  padding: 0.6rem 1.2rem;
+  background: var(--color-primary);
+  color: white;
+  font-size: 1rem;
+  transition: background 0.2s;
+}
+
+button:hover { background: var(--color-secondary); }

@@ -1,0 +1,29 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: var(--color-primary);
+  color: white;
+  box-shadow: var(--shadow);
+}
+
+.navbar-brand { display: flex; align-items: center; gap: 0.5rem; }
+.brand-name { font-size: 1.4rem; font-weight: 700; color: white; }
+.logo-icon { font-size: 1.6rem; }
+
+.navbar-links {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.navbar-links a { color: white; font-weight: 500; transition: color 0.2s; }
+.navbar-links a:hover { color: var(--color-accent); }
+
+.btn-login {
+  background: var(--color-accent);
+  padding: 0.4rem 1rem;
+  border-radius: var(--radius);
+}
