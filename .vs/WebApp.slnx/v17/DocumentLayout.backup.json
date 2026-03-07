@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julio\\source\\repos\\Web-e-commerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4446660-A98C-BDE5-29E4-8C41498F1BFE}|WebApp.Server\\WebApp.Server.csproj|c:\\users\\julio\\source\\repos\\web-e-commerce\\webapp.server\\webapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4446660-A98C-BDE5-29E4-8C41498F1BFE}|WebApp.Server\\WebApp.Server.csproj|solutionrelative:webapp.server\\webapp.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 321,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApp.Server",
+              "DocumentMoniker": "C:\\Users\\julio\\Source\\Repos\\Web-e-commerce\\WebApp.Server\\WebApp.Server.csproj",
+              "RelativeDocumentMoniker": "WebApp.Server\\WebApp.Server.csproj",
+              "ToolTip": "C:\\Users\\julio\\Source\\Repos\\Web-e-commerce\\WebApp.Server\\WebApp.Server.csproj",
+              "RelativeToolTip": "WebApp.Server\\WebApp.Server.csproj",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-07T04:58:15.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 75,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

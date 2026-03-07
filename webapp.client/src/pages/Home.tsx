@@ -17,7 +17,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '1.5rem', marginTop: '2rem' }}>
+          <section style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))', gap: '1.5rem', marginTop: '2rem' }}>
         {[
           { icon: '🥦', title: 'Verduras Frescas', desc: 'Directo del campo sin intermediarios' },
           { icon: '🍯', title: 'Productos Artesanales', desc: 'Miel, mermeladas y más' },

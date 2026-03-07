@@ -1,1 +1,2 @@
 C:\Users\Brand\source\repos\WebApp\webapp.client\obj\Debug\webapp.client.esproj.CoreCompileInputs.cache
+C:\Users\julio\Source\Repos\Web-e-commerce\webapp.client\obj\Debug\webapp.client.esproj.CoreCompileInputs.cache

@@ -4,7 +4,7 @@ export default function Dashboard() {
   return (
     <MainLayout>
       <h2 style={{ color: 'var(--color-primary)', marginBottom: '1.5rem' }}>📊 Panel del Productor</h2>
-      <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: '1rem', marginBottom: '2rem' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))', gap: '1rem', marginBottom: '2rem' }}>
         {[
           { label: 'Productos publicados', value: '12', icon: '📦' },
           { label: 'Pedidos activos', value: '5', icon: '🛒' },
