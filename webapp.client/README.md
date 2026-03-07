@@ -6,7 +6,7 @@ Plataforma web e-commerce que conecta productores rurales con consumidores urban
 - React 18 + Vite
 - React Router DOM
 - CSS Variables (diseño propio)
-- ASP.NET Core 8 (backend — próxima unidad)
+- ASP.NET Core 9 (backend — próxima unidad)
 
 ##  Estructura del proyecto
 ```
